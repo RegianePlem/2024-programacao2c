@@ -43,13 +43,11 @@ padding: 24px 0;
 .Nosso-objetivo-imagem {
         width: 100px;
 
-.rodapé-imagem {
-background-color: #F74178;
-
 
 }
+.footer{
+    background-color: #FC819E;
 }
-
 .rodapé-imagem{
     width: 150px;
     height: 150px;
